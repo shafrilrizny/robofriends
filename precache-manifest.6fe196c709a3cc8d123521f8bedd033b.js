@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "af1a7c611b4bbc016b36",
-    "url": "/robofriends/static/css/main.7e9d56f7.chunk.css"
+    "revision": "0b38a0701d06764484a1",
+    "url": "/robofriends/static/css/main.0edb80f7.chunk.css"
   },
   {
-    "revision": "af1a7c611b4bbc016b36",
-    "url": "/robofriends/static/js/main.af1a7c61.chunk.js"
+    "revision": "0b38a0701d06764484a1",
+    "url": "/robofriends/static/js/main.0b38a070.chunk.js"
   },
   {
     "revision": "9863931913954e89bf2e",
@@ -24,11 +24,15 @@ self.__precacheManifest = [
     "url": "/robofriends/static/js/runtime~main.e1998df2.js"
   },
   {
+    "revision": "4e7c867f35b7702a51a56270b548a058",
+    "url": "/robofriends/static/media/bg.4e7c867f.svg"
+  },
+  {
     "revision": "20f6a8eb0b9b618e54300cd74420429b",
     "url": "/robofriends/static/media/The Quick South St.20f6a8eb.woff"
   },
   {
-    "revision": "d4a3d1e36e66ee9cf91f973a9081994d",
+    "revision": "31134e8f067869fb3ea2e364d85efe7f",
     "url": "/robofriends/index.html"
   }
 ];
